@@ -1,6 +1,5 @@
 # Data Client
 *.json
-*.csv
 
 # compiled output
 /dist
